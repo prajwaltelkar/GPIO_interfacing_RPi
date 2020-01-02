@@ -1,6 +1,6 @@
 # GPIO_interfacing_RPi
 Encouraged by Appiko
-This is a Raspberry Pi GPIO interfacing project. Here we make use of an led to make it blink.
+  This is a Raspberry Pi GPIO interfacing project. Here we make use of an led to make it blink.
 
 
 OBJECTIVE
