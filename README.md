@@ -1,5 +1,5 @@
 # GPIO_interfacing_RPi
-Encouraged by <a href="https://appiko.org/">Appiko</a>
+#### Encouraged by <a href="https://appiko.org/">Appiko</a>
 
   This is a Raspberry Pi GPIO interfacing project. Here we make use of an led to make it blink.
 
@@ -21,3 +21,6 @@ Encouraged by <a href="https://appiko.org/">Appiko</a>
   The circuit is set up such that is made of a resistor of 1Kohm and an LED in series such that a GPIO pin from microcontroller 
   is connected to the other pin of LED.
   
+  ### INTERFACING CIRCUIT
+  
+  <img src="gpio_interfacing.png" width="1200" height="600">
