@@ -23,4 +23,4 @@
   
   ### INTERFACING CIRCUIT
   
-  <img src="gpio_interfacing.png" width="1200" height="600">
+  <img src="interfacing.png" width="1200" height="600">
